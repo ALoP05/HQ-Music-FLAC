@@ -1,2 +1,2 @@
-# HQ-Music-FLAC
+# HQ Music FLAC
 My High Quality Music repository which includes (mostly) videogame OST such as: Pokémon, Destiny, Monster Hunter, etc...
